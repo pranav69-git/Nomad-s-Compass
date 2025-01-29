@@ -1,1 +1,1 @@
-# Nomad-s-Compass
+# Nomads-Compass
